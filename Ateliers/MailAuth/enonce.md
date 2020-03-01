@@ -24,7 +24,7 @@ Exercices
 
 3. Faites une copie de l'[exemple de _login_](https://github.com/jacquesberger/exemplesINF5190/tree/master/Flask/login) vu en classe
    et modifiez-le pour saisir le nom et le prénom de l'utilisateur lors de son
-   inscription. Ensuite, lorsque l'utilisation est connecté à l'application,
+   inscription. Ensuite, lorsque l'utilisateur est connecté à l'application,
    affichez-lui une salutation avec son nom complet sur la page d'accueil.
 
 4. Mettez en place une procédure de validation d'adresse courriel lors de
